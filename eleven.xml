@@ -6,16 +6,16 @@
            revision="eleven"/>
 
  <!-- Device Trees -->
-  <project path="device/xiaomi/merlinx" name="android_device_xiaomi_merlinx" remote="cloudprject" revision="spark"/>
-  <project path="device/xiaomi/mt6768-common" name="android_device_xiaomi_mt6768-common" remote="cloudprject" revision="11"/>
+  <project path="device/xiaomi/merlinx" name="android_device_xiaomi_merlinx" remote="cloudprject"/>
+  <project path="device/xiaomi/mt6768-common" name="android_device_xiaomi_mt6768-common" remote="cloudprject"/>
  
  <!-- Kernel -->
-  <project path="kernel/xiaomi/mt6768" name="android_kernel_xiaomi_mt6768" remote="cloudprject" revision="11/12"/>
+  <project path="kernel/xiaomi/mt6768" name="android_kernel_xiaomi_mt6768" remote="cloudprject"/>
 
  <!-- Vendor Trees -->
-  <project path="vendor/xiaomi/merlinx" name="android_vendor_xiaomi_merlinx" remote="cloudprject" revision="eleven"/>
+  <project path="vendor/xiaomi/merlinx" name="android_vendor_xiaomi_merlinx" remote="cloudprject"/>
   
  <!-- Extras -->
-  <project path="device/mediatek/sepolicy_vndr" name="device_mediatek_sepolicy_vndr" remote="cloudprject" revision="eleven"/>
+  <project path="device/mediatek/sepolicy_vndr" name="device_mediatek_sepolicy_vndr" remote="cloudprject"/>
 
 </manifest>
