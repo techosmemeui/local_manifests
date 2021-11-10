@@ -16,6 +16,6 @@
   <project path="vendor/xiaomi/merlinx" name="android_vendor_xiaomi_merlinx" remote="cloudprject"/>
   
  <!-- Extras -->
-  <project path="device/mediatek/sepolicy_vndr" name="device_mediatek_sepolicy_vndr" remote="github" revision="eleven"/>
+  <project path="device/mediatek/sepolicy_vndr" name="device_mediatek_sepolicy_vndr" remote="cloudprject" revision="eleven"/>
 
 </manifest>
