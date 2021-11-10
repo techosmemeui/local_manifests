@@ -13,7 +13,7 @@
   <project path="kernel/xiaomi/mt6768" name="android_kernel_xiaomi_mt6768" remote="cloudprject" revision="11/12"/>
 
  <!-- Vendor Trees -->
-  <project path="vendor/xiaomi/merlinx" name="android_vendor_xiaomi_merlinx" remote="cloudprject"/>
+  <project path="vendor/xiaomi/merlinx" name="android_vendor_xiaomi_merlinx" remote="cloudprject" revision="eleven"/>
   
  <!-- Extras -->
   <project path="device/mediatek/sepolicy_vndr" name="device_mediatek_sepolicy_vndr" remote="cloudprject" revision="eleven"/>
